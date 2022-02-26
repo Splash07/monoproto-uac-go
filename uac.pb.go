@@ -4,7 +4,7 @@
 // 	protoc        v3.17.3
 // source: uac.proto
 
-package monoproto_uac_go
+package main
 
 import (
 	context "context"
