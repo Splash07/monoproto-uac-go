@@ -1,1 +1,1 @@
-module monoproto-uac-go
+module github.com/Splash07/monoproto-uac-go
